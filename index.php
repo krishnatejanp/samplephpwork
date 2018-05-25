@@ -5,7 +5,7 @@
 <h1>Doveloping PHP Application</h1>
 
 <?php
-echo "Version: 3.0";
+echo "Version: 4.0";
 ?>
 
 </body>
